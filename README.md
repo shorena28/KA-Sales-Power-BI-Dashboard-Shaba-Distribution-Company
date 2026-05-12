@@ -22,6 +22,7 @@ Debt & Payment Turnover
 
 📊 Dashboard Structure
 1. 📈 Sales & Growth Analysis
+
 Monthly sales trend with MoM % change,
 Yearly performance with YoY growth,
 Sales vs Total Cost comparison
@@ -33,7 +34,9 @@ Growth patterns,
 Performance drops
 
 2. 💰 Margin Efficiency Analysis
+
 Breakdown of:
+
 COGS %,
 Discount %,
 Marketing Cost %,
